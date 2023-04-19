@@ -1,8 +1,7 @@
 # Table Tennis Physics Model
 This is a Matlab program with a GUI that I made for an assignment at university.
-<br/>
 The task was to model some projectile motion and evaluate the effects of some change in conditions.
-<br/>
+<br/><br/>
 Based on an April Fools article where the International Table Tennis Federation proposed to change the size of the table to make the game more exciting to watch, I chose to model whether this might actually be the case.
 
 ## The Model
