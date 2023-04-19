@@ -9,7 +9,7 @@ Based on an April Fools article where the International Table Tennis Federation 
 * 3-d projectile motion
 * Aerodynamic drag and lift force
 * Spin effects (Magnus Lift)
-* Ballistic transition (drag and lift dependent on Reynolds number and spin rates)
+* Ballistic transition (drag and lift dependent on turbulence and spin rates)
 * Projectile impact
 
 ## The Program
