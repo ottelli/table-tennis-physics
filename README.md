@@ -6,7 +6,6 @@ The task was to model some projectile motion and evaluate the effects of some ch
 Based on an April Fools article where the International Table Tennis Federation proposed to change the size of the table to make the game more exciting to watch, I chose to model whether this might actually be the case.
 
 ## The Model
-To be as comprehensive as possible, the model includes:
 * 3-d projectile motion
 * Aerodynamic drag and lift force
 * Spin effects (Magnus Lift)
